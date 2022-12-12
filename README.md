@@ -1,3 +1,3 @@
 # PrakPertemuan6
-Muhammad Hadi Arsa (120140150) <br>
+Hans Bonatua Batubara (120140131) <br>
 Kelas Pemweb (RB), Praktikum Pemweb Jadwal (A)
